@@ -1,6 +1,6 @@
 # table
 
-> A Vue.js project
+> 重庆某国企的考察题目，顺便学习了一下vue.js
 
 ## Build Setup
 
